@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @HighSchoolProgrammer
+- Just another goofy programmer :)
