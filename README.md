@@ -1,10 +1,10 @@
-GitHub - @HighSchoolProgrammer
-Youtube - @kevinHSP000
-TikTok - @kevin909867
+- GitHub - @HighSchoolProgrammer
+- Youtube - @kevinHSP000
+- TikTok - @kevin909867
 
 ## Upcoming Projects
 - Sch00l for Windows 
 - Sch00l for Android
 - Syphon (Windows File Managment Tools)
 - Learning WinUI
-- Register on Microsoft Store
+- Register on Microsoft Store (costs $21 AUD 😡)
