@@ -6,5 +6,8 @@
 - Sch00l for Windows 
 - Sch00l for Android
 - Syphon (Windows File Managment Tools)
-- Learning WinUI
+- Obsidian (PC Health Checker App)
+
+## To-do List
+- Learn WinUI
 - Register on Microsoft Store (costs $21 AUD 😡)
