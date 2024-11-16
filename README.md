@@ -5,7 +5,6 @@
 
 ## Upcoming Projects
 - Sch00l for Windows
-- Sch00l for Web
 - Sch00l for MacOS
 - Sch00l for Android
 - Sch00l Lite
