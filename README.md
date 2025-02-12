@@ -1,12 +1,11 @@
-# About Me
+# Socials
 - GitHub - @HighSchoolProgrammer
 - Youtube (inactive) - @kevinHSP000
 - TikTok - @kevin909867
 
 ## Upcoming Projects
-- Syphon (Windows File Managment Tools)
-- Obsidian (PC Health Checker App)
+- N/A working on Toolbox
 
 ## To-do List
-- Learn WinUI
-- Register on Microsoft Store (costs $21 AUD 😡)
+- Develop Toolbox
+- Learn C# and C++ (desktop apps with UI)
