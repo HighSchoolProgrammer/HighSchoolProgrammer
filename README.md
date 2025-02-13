@@ -4,8 +4,8 @@
 - TikTok - @kevin909867
 
 ## Upcoming Projects
-- N/A working on Toolbox
+- N/A working on Obsidian
 
 ## To-do List
-- Develop Toolbox
+- Develop Obsidian
 - Learn C# and C++ (desktop apps with UI)
