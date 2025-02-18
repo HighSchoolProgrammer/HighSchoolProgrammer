@@ -4,7 +4,7 @@
 - TikTok - @kevin909867
 
 ## Upcoming Projects
-- N/A working on Obsidian
+- QuickSetup
 
 ## To-do List
 - Develop Obsidian
