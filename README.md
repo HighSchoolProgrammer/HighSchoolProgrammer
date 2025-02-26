@@ -5,6 +5,7 @@
 
 ## Upcoming Projects
 - QuickSetup
+- AltManager (Manage alt accounts for various apps in one place
 
 ## To-do List
 - Develop Obsidian
