@@ -1,6 +1,5 @@
 # Socials
 - GitHub - @HighSchoolProgrammer
-- Youtube (inactive) - @kevinHSP000
 - TikTok - @kevin909867
 
 ## Upcoming Projects
