@@ -15,10 +15,11 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-
+<div align="center">
 <a href="https://github.com/HighSchoolProgrammer/HighSchoolProgrammer/">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=HighSchoolProgrammer&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true" />
 </a>
 <a href="https://github.com/HighSchoolProgrammer/HighSchoolProgrammer/">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=kevin909867&layout=compact" />
 </a>
+</div>
