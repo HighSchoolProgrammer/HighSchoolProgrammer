@@ -15,5 +15,4 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-![Kevin's Github Stats](https://github-readme-stats.vercel.app/api?username=highschoolprogrammer&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=highschoolprogrammer&hide=TeX&layout=compact)
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=highschoolprogrammer\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&rank_icon=percentile)
